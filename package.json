@@ -21,7 +21,7 @@
   "homepage": "https://github.com/JoeKarow/portfolio-artgallery#readme",
   "dependencies": {
     "browser-sync": "^3.0.0",
-    "npm-run-all2": "^5.0.0",
+    "npm-run-all2": "^6.0.0",
     "sass": "^1.49.9"
   }
 }
