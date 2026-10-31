@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/JoeKarow/portfolio-artgallery#readme",
   "dependencies": {
-    "browser-sync": "^3.0.0",
-    "npm-run-all2": "^6.0.0",
-    "sass": "^1.49.9"
+    "browser-sync": "3.0.2",
+    "npm-run-all2": "6.1.2",
+    "sass": "1.72.0"
   }
 }
